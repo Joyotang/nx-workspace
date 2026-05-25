@@ -8,6 +8,9 @@
     },
     {
       "path": "./packages/app-demo"
+    },
+    {
+      "path": "./packages/ui"
     }
   ]
 }
